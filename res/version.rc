@@ -1,0 +1,24 @@
+0 ICON icon.ico
+1 VERSIONINFO
+FILEVERSION     1,0,0,0
+PRODUCTVERSION  1,0,0,0
+BEGIN
+  BLOCK "StringFileInfo"
+  BEGIN
+    BLOCK "080904E4"
+    BEGIN
+      VALUE "CompanyName", "Arwichok"
+      VALUE "FileDescription", "RPG Game"
+      VALUE "FileVersion", "1.0"
+      VALUE "InternalName", "console_rpg_game"
+      VALUE "LegalCopyright", "Arwichok"
+      VALUE "OriginalFilename", "console_rpg_game.exe"
+      VALUE "ProductName", "ConsoleRPGGame"
+      VALUE "ProductVersion", "1.0"
+    END
+  END
+  BLOCK "VarFileInfo"
+  BEGIN
+    VALUE "Translation", 0x809, 1252
+  END
+END

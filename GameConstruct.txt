@@ -1,0 +1,66 @@
+
+init()
+while(){
+	draw()
+	input()
+	logic()
+}
+
+
+field - map
+####################
+#                  # & - you
+#  &               #
+#                  # w - Up
+#         $        # a - Left
+#                  # s - Down
+#                  # d - Right
+#                  #
+#                  # $ - 0
+#     $            #
+#          ___     #
+#         /   \    #
+#         |[ ]|    #
+#                  #
+####################
+
+move wasd
+
+if user stay in [ ] 
+field chenged to -
+
+☺☻♥♦♣♠•◘○◙☺1♂♀♪♫☼►◄↕‼♫¶§↨↑↓→←∟↔☻▲▼
+
+filed - dialog
+####################
+#          ___     #
+#         /   \    #
+#         |[&]|    #
+####################
+Hello! You can kill 
+one monster [y/n]
+
+if n field retruned to 
+
+filed - fight
+####################
+#                  # you 
+#                  # ♥♥♥♥♥
+#                  # monster
+#                  # ♥♥♥♥♥♥♥♥♥
+#             ___  # 
+#  &  -      (-_-) # strike - 
+#             \+/  # -♥♥♥
+#                  # 
+#                  # attack -
+#################### space
+
+monster attack
+ ___
+(0_0)
+ \+/
+
+monster killed 
+ ___
+(x_x)
+ \ /
